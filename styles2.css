@@ -1,0 +1,85 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Mochiy Pop One', sans-serif;
+}
+h1{
+margin-top: 0;
+color: black;
+font-size: 90px;
+font-family: 'Arvo', serif;
+line-height: 2;
+}
+h2{
+
+
+  font-family: 'Montserrat', sans-serif;
+   color: #66BFBF;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color:  #66BFBF;
+}
+.profile-image{
+  border-radius: 50%;
+}
+
+.skill-row{
+width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+line-height: 2;
+
+
+}
+.progr{
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+.skills{
+  background-color: #F6FBF4;
+}
+.profile{
+  background-color: #F6FBF4;
+
+}
+.comding{
+width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+.dev{
+width: 15%;
+    float: right;
+
+}
+
+
+.top{
+background-color: #E4F9F5;
+position: relative;
+padding-top: 100px;
+
+
+}
+.contact-me{
+
+  background-color: #66BFBF;
+}
+
+.bottom-container{
+background-color: #66BFBF;
+margin-top:  0;
+}
+.bottom-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.top-cloud{
+  position: absolute;
+  left: 300px;
+  top: 300px;
+
+}
